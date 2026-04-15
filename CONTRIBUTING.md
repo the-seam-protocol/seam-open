@@ -17,7 +17,8 @@ Browse the repository structure and pick an area that matches your expertise:
 
 ### 2. Fork & Branch
 ```bash
-git fork https://github.com/[org]/seam-open
+gh repo fork [org]/seam-open --clone
+cd seam-open
 git checkout -b feature/your-feature-name
 ```
 
@@ -73,3 +74,5 @@ By contributing, you agree that your contributions will be licensed under:
 ## 🤝 Code of Conduct
 
 Be respectful, inclusive, and constructive. We are building infrastructure for a nation — every contribution matters.
+
+See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).

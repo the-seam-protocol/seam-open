@@ -1,0 +1,9 @@
+# Global fallback
+* @your-handle
+
+# Domain ownership
+/hardware/ @hardware-lead @your-handle
+/firmware/ @firmware-lead @your-handle
+/software/ @software-lead @your-handle
+/docs/ @docs-lead @your-handle
+/*.md @docs-lead @your-handle

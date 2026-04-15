@@ -166,6 +166,21 @@ Three crops grown simultaneously: sorghum 🌾, legumes 🌿, peanuts 🥜. Biol
 
 We welcome contributions from engineers, researchers, and makers worldwide. See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
+Additional community docs:
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Security Policy](./SECURITY.md)
+- [Maintainers](./MAINTAINERS.md)
+- [Roadmap](./ROADMAP.md)
+- [Support](./SUPPORT.md)
+
+### Current Project Status
+
+This repository is in an **early foundation stage**. The structure and standards are defined, and we are actively onboarding contributors to build implementation modules across hardware, firmware, software, and manufacturing.
+
+- ✅ Governance and contribution standards are available
+- 🛠️ Most subsystem folders are currently scaffolded
+- 🎯 Priority work is tracked through GitHub Issues and labels
+
 **Priority areas:**
 - KiCad schematics for SolarSync BMS
 - Rust firmware for LoRa node

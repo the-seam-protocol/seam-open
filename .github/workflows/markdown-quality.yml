@@ -1,0 +1,25 @@
+name: Markdown Quality
+
+on:
+  pull_request:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: |
+            **/*.md
+
+      - name: Check links in Markdown
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --verbose --accept 200,206,429 './**/*.md' './**/*.html'
+          fail: true
