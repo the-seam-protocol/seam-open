@@ -159,12 +159,20 @@ Three crops grown simultaneously: sorghum 🌾, legumes 🌿, peanuts 🥜. Biol
 
 **Yield split:** 80% landowner · 15% protocol logistics · 5% UBI fund
 
-### UBI Projections (Y1 → Y10)
-| Year | Hectares (M) | Annual Pool ($M) | Per Family |
-|------|-------------|-----------------|------------|
-| Y1 | 0.5 | 27 | $3 |
-| Y5 | 6 | 330 | $41 |
-| Y10 | 20 | 1,100 | $135 |
+### UBI Projections — Full Sudan Coverage (8.1M families)
+
+Revenue sources: PAYGo energy + V2G trading + FaaS agriculture + ESG carbon credits + UMG-Si exports
+
+| Year | Hectares (M) | Energy + V2G ($M) | Agri UBI Pool ($M) | Total Pool ($M) | Per Family/yr |
+|------|-------------|-------------------|-------------------|-----------------|---------------|
+| Y1   | 2           | 20                | 60                | 80              | $10           |
+| Y3   | 10          | 100               | 300               | 400             | $49           |
+| Y5   | 25          | 350               | 750               | 1,100           | $136          |
+| Y10  | 60          | 1,200             | 1,800             | 3,000           | $370          |
+| Y15  | 84          | 2,500             | 2,520             | 5,000           | $617          |
+| Y20  | 84          | 4,500             | 2,520             | 7,000           | $864          |
+
+> Sudan has ~35M hectares of cultivable land (84M feddans). At full deployment, combined revenue from all three phases funds a meaningful national UBI for every Sudanese family.
 
 ---
 
@@ -221,10 +229,11 @@ S.E.A.M is an open-source, non-profit infrastructure protocol built for Sudan. W
 
 | Milestone | Goal | Status |
 |-----------|------|--------|
-| Phase 1 Pilot — 10 SolarSync units deployed | $150,000 | 🔓 Open |
-| Phase 1 Scale — LoRa network 500 nodes | $300,000 | 🔒 Locked |
-| Phase 2 Pilot — 50 PulseTrike EVs on road | $500,000 | 🔒 Locked |
-| Phase 3 Pilot — Swarm agriculture 500 hectares | $1,000,000 | 🔒 Locked |
+| Phase 1 Pilot — 10 SolarSync units + 500 LoRa nodes | $500,000 | 🔓 Open |
+| Phase 1 National — 10,000 SolarSync units, full LoRa mesh | $10,000,000 | 🔒 Locked |
+| Phase 2 — 1,000 EV fleet + battery swap network | $50,000,000 | 🔒 Locked |
+| Phase 3 Pilot — Swarm agriculture 10,000 hectares | $200,000,000 | 🔒 Locked |
+| Full National Deployment — all 35M hectares, full UBI | $2,000,000,000 | 🔒 Locked |
 
 > Every milestone unlocks the next. Phase 1 generates cash flow that partially self-funds Phase 2.
 
