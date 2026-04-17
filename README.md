@@ -202,6 +202,34 @@ This repository is in an **early foundation stage**. The structure and standards
 
 ---
 
+## 💛 Support the Project
+
+S.E.A.M is an open-source, non-profit infrastructure protocol built for Sudan. We rely on public support, grants, and impact investment to move from blueprint to deployment.
+
+### Ways to Help
+
+| How | What it does |
+|-----|-------------|
+| ⭐ Star this repo | Increases visibility and signals credibility to funders |
+| 🔁 Share the project | Post on LinkedIn, X, or with your network |
+| 💬 Join Discord | [discord.gg/HRYwPTB9](https://discord.gg/HRYwPTB9) — community, feedback, coordination |
+| 🛠 Contribute code | See [CONTRIBUTING.md](./CONTRIBUTING.md) |
+| 🤝 Partner or invest | See [INVEST.md](./INVEST.md) or email [invest@seam-protocol.sd](mailto:invest@seam-protocol.sd) |
+| 💰 Donate | Visit [seam-protocol.sd/support](https://seam-protocol.sd/support) |
+
+### Funding Milestones
+
+| Milestone | Goal | Status |
+|-----------|------|--------|
+| Phase 1 Pilot — 10 SolarSync units deployed | $150,000 | 🔓 Open |
+| Phase 1 Scale — LoRa network 500 nodes | $300,000 | 🔒 Locked |
+| Phase 2 Pilot — 50 PulseTrike EVs on road | $500,000 | 🔒 Locked |
+| Phase 3 Pilot — Swarm agriculture 500 hectares | $1,000,000 | 🔒 Locked |
+
+> Every milestone unlocks the next. Phase 1 generates cash flow that partially self-funds Phase 2.
+
+---
+
 ## 📜 Licensing
 
 | Component | License |
