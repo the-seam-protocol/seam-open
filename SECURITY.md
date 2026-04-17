@@ -6,7 +6,7 @@ Please do **not** open public issues for security vulnerabilities.
 
 Report privately using one of these channels:
 
-- **Email**: security@seam-protocol.sa
+- **Email**: security@seam-protocol.sd
 - **GitHub Private Advisory**: [Report a vulnerability](https://github.com/the-seam-protocol/seam-open/security/advisories/new)
 
 Include in your report:

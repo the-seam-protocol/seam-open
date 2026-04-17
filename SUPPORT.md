@@ -7,7 +7,7 @@
 | [Discord](https://discord.gg/HRYwPTB9) | General discussion, questions, contributor coordination |
 | [GitHub Discussions](https://github.com/the-seam-protocol/seam-open/discussions) | Design proposals, architecture questions, long-form threads |
 | [GitHub Issues](https://github.com/the-seam-protocol/seam-open/issues) | Bug reports, feature requests, task tracking |
-| [Website](https://seam-protocol.sa) | Project overview and announcements |
+| [Website](https://seam-protocol.sd) | Project overview and announcements |
 
 ## Before Opening an Issue
 

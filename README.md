@@ -10,7 +10,7 @@
 
 [![License: CERN-OHL-P-2.0](https://img.shields.io/badge/Hardware-CERN--OHL--P--2.0-brightgreen)](https://ohwr.org/cernohl)
 [![License: Apache-2.0](https://img.shields.io/badge/Software-Apache--2.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Website](https://img.shields.io/badge/Website-seam--protocol.sa-informational)](https://seam-protocol.sa)
+[![Website](https://img.shields.io/badge/Website-seam--protocol.sd-informational)](https://seam-protocol.sd)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/HRYwPTB9)
 
 ---
@@ -181,7 +181,7 @@ Additional community docs:
 
 ### Community
 
-- Website: [seam-protocol.sa](https://seam-protocol.sa)
+- Website: [seam-protocol.sd](https://seam-protocol.sd)
 - Discord: [discord.gg/HRYwPTB9](https://discord.gg/HRYwPTB9)
 - GitHub Discussions: [github.com/the-seam-protocol/seam-open/discussions](https://github.com/the-seam-protocol/seam-open/discussions)
 

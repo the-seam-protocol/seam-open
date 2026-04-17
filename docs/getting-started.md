@@ -46,4 +46,4 @@ Check the GitHub Issues and Projects board for open tasks tagged by area:
 | [Discord](https://discord.gg/HRYwPTB9) | Quick questions, community chat |
 | [GitHub Discussions](https://github.com/the-seam-protocol/seam-open/discussions) | Design proposals and architecture threads |
 | [GitHub Issues](https://github.com/the-seam-protocol/seam-open/issues) | Bug reports and task tracking |
-| [Website](https://seam-protocol.sa) | Project overview and announcements |
+| [Website](https://seam-protocol.sd) | Project overview and announcements |
