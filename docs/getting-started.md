@@ -23,7 +23,7 @@ Welcome to the S.E.A.M Open project. This guide will help you set up your develo
 
 ```bash
 # Clone the repository
-git clone https://github.com/[org]/seam-open.git
+git clone https://github.com/the-seam-protocol/seam-open.git
 cd seam-open
 
 # Pick a subsystem and navigate to it
@@ -41,5 +41,9 @@ Check the GitHub Issues and Projects board for open tasks tagged by area:
 
 ## Communication
 
-- GitHub Discussions — Primary communication channel
-- Issues — Bug reports and feature requests
+| Channel | Purpose |
+|---------|---------|
+| [Discord](https://discord.gg/HRYwPTB9) | Quick questions, community chat |
+| [GitHub Discussions](https://github.com/the-seam-protocol/seam-open/discussions) | Design proposals and architecture threads |
+| [GitHub Issues](https://github.com/the-seam-protocol/seam-open/issues) | Bug reports and task tracking |
+| [Website](https://seam-protocol.sa) | Project overview and announcements |

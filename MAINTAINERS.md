@@ -4,13 +4,15 @@ This document defines who reviews what in this repository.
 
 ## Core Maintainers
 
-> Replace placeholders with GitHub usernames.
+| Role | GitHub |
+|------|--------|
+| Project Lead | [@MakAkasha](https://github.com/MakAkasha) |
+| Hardware Lead | open position |
+| Firmware Lead | open position |
+| Software Lead | open position |
+| Documentation Lead | open position |
 
-- Project Lead: `@your-handle`
-- Hardware Lead: `@hardware-lead`
-- Firmware Lead: `@firmware-lead`
-- Software Lead: `@software-lead`
-- Documentation Lead: `@docs-lead`
+> Domain leads are open positions. If you are an experienced engineer in one of these areas and want to take ownership of a subsystem, open a GitHub Discussion or reach out via [Discord](https://discord.gg/HRYwPTB9).
 
 ## Review Ownership
 

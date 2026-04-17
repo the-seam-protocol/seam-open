@@ -2,27 +2,28 @@
 
 This roadmap helps contributors align efforts across the S.E.A.M Open stack.
 
-## Next 30 Days
+## Q2 2026 (by June 2026)
 
-- Finalize repo governance and contribution workflows
-- Create subsystem-level README files with deliverables and interfaces
-- Open and label first batch of `good-first-issue` tasks
+- [x] Finalize repo governance and contribution workflows
+- [ ] Create subsystem-level README files with deliverables and interfaces
+- [ ] Open and label first batch of `good-first-issue` tasks
 
-## Next 90 Days
+## Q3 2026 (by September 2026)
 
-- Publish first reference hardware artifacts (schematics/BOM examples)
-- Publish first firmware proof-of-concept module
-- Publish first software service skeleton with test scaffolding
+- [ ] Publish first reference hardware artifacts (schematics/BOM examples)
+- [ ] Publish first firmware proof-of-concept module
+- [ ] Publish first software service skeleton with test scaffolding
 
-## Next 180 Days
+## Q4 2026 (by December 2026)
 
-- Cross-domain integration demo (telemetry pipeline)
-- Safety and validation checklist pass for pilot components
-- Public contributor onboarding sprint and documentation translation wave
+- [ ] Cross-domain integration demo (telemetry pipeline end-to-end)
+- [ ] Safety and validation checklist pass for pilot components
+- [ ] Public contributor onboarding sprint and documentation translation wave (Arabic)
 
 ## Status Convention
 
 Use one of these labels in subsystem docs:
-- `planned`
-- `in-progress`
-- `stable`
+
+- `planned` — Defined but not started
+- `in-progress` — Actively being worked on
+- `stable` — Reviewed, tested, and merged

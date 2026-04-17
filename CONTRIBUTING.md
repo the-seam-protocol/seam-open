@@ -17,7 +17,7 @@ Browse the repository structure and pick an area that matches your expertise:
 
 ### 2. Fork & Branch
 ```bash
-gh repo fork [org]/seam-open --clone
+gh repo fork the-seam-protocol/seam-open --clone
 cd seam-open
 git checkout -b feature/your-feature-name
 ```
