@@ -159,18 +159,20 @@ Three crops grown simultaneously: sorghum 🌾, legumes 🌿, peanuts 🥜. Biol
 
 **Yield split:** 80% landowner · 15% protocol logistics · 5% UBI fund
 
-### UBI Projections — Full Sudan Coverage (8.1M families)
+### UBI Projections — Full Sudan Coverage
 
 Revenue sources: PAYGo energy + V2G trading + FaaS agriculture + ESG carbon credits + UMG-Si exports
 
-| Year | Hectares (M) | Energy + V2G ($M) | Agri UBI Pool ($M) | Total Pool ($M) | Per Family/yr |
-|------|-------------|-------------------|-------------------|-----------------|---------------|
-| Y1   | 2           | 20                | 60                | 80              | $10           |
-| Y3   | 10          | 100               | 300               | 400             | $49           |
-| Y5   | 25          | 350               | 750               | 1,100           | $136          |
-| Y10  | 60          | 1,200             | 1,800             | 3,000           | $370          |
-| Y15  | 84          | 2,500             | 2,520             | 5,000           | $617          |
-| Y20  | 84          | 4,500             | 2,520             | 7,000           | $864          |
+Sudan's population grows at ~2.6%/year. Projections account for growing family counts (from 8.1M today to ~13.5M by Y20).
+
+| Year | Est. Families | Hectares (M) | Energy + V2G ($M) | Agri UBI Pool ($M) | Total Pool ($M) | Per Family/yr |
+|------|--------------|-------------|-------------------|-------------------|-----------------|---------------|
+| Y1   | 8.1M         | 2           | 20                | 60                | 80              | $10           |
+| Y3   | 8.5M         | 10          | 100               | 300               | 400             | $47           |
+| Y5   | 9.1M         | 25          | 350               | 750               | 1,100           | $121          |
+| Y10  | 10.4M        | 60          | 1,200             | 1,800             | 3,000           | $288          |
+| Y15  | 11.9M        | 84          | 2,500             | 2,520             | 5,000           | $420          |
+| Y20  | 13.5M        | 84          | 4,500             | 2,520             | 7,000           | $519          |
 
 > Sudan has ~35M hectares of cultivable land (84M feddans). At full deployment, combined revenue from all three phases funds a meaningful national UBI for every Sudanese family.
 
