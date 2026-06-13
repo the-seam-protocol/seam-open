@@ -9,9 +9,9 @@
 
 Sudan faces three compounding crises:
 
-- **Energy**: 70%+ of the population lacks reliable electricity access
+- **Energy**: Only ~1 in 3 households is grid-connected; pre-war national access was ~62–66%, and the 2023+ war has since collapsed supply and reliability
 - **Mobility**: Urban and rural transport depends on aging, fuel-dependent fleets
-- **Food**: Post-harvest losses exceed 30% due to lack of cold storage and logistics
+- **Food**: Post-harvest losses run ~30–40% due to lack of cold storage and logistics
 
 These are not isolated problems — they are one problem: missing infrastructure.
 
@@ -69,7 +69,9 @@ S.E.A.M is structured as an **open protocol with a revenue layer**, not a closed
 
 Sudan's population grows at ~2.6%/year — projections account for growing family counts (8.1M today → ~13.5M by Y20).
 
-| Year | Est. Families | Hectares (M) | Energy + V2G ($M) | Agri UBI Pool ($M) | Total Pool ($M) | Per Family/yr |
+> **Aspirational projection** — illustrative model, not a guarantee.
+
+| Year | Est. Families | Feddans (M) | Energy + V2G ($M) | Agri UBI Pool ($M) | Total Pool ($M) | Per Family/yr |
 |------|--------------|-------------|-------------------|-------------------|-----------------|---------------|
 | Y1   | 8.1M         | 2           | 20                | 60                | 80              | $10           |
 | Y3   | 8.5M         | 10          | 100               | 300               | 400             | $47           |
@@ -99,9 +101,9 @@ The protocol is the product. The hardware and software are freely forkable — t
 
 | Purpose | Contact |
 |---------|---------|
-| Investment & partnerships | [invest@seam-protocol.sd](mailto:invest@seam-protocol.sd) |
-| General inquiries | [seam-protocol.sd](https://seam-protocol.sd) |
-| Community | [discord.gg/HRYwPTB9](https://discord.gg/HRYwPTB9) |
+| Investment & partnerships | [invest@seam.sd](mailto:invest@seam.sd) |
+| General inquiries | [seam.sd](https://seam.sd) |
+| Community | [discord.gg/ssGfWPgKe](https://discord.gg/ssGfWPgKe) |
 | GitHub | [github.com/the-seam-protocol](https://github.com/the-seam-protocol) |
 
 ---

@@ -10,8 +10,8 @@
 
 [![License: CERN-OHL-P-2.0](https://img.shields.io/badge/Hardware-CERN--OHL--P--2.0-brightgreen)](https://ohwr.org/cernohl)
 [![License: Apache-2.0](https://img.shields.io/badge/Software-Apache--2.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Website](https://img.shields.io/badge/Website-seam--protocol.sd-informational)](https://seam-protocol.sd)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/HRYwPTB9)
+[![Website](https://img.shields.io/badge/Website-seam.sd-informational)](https://seam.sd)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/ssGfWPgKe)
 
 ---
 
@@ -106,11 +106,11 @@ seam-open/
 | Phase A | M2M telemetry only |
 | Phase B | Full human mesh network (>100K nodes) |
 
-### UMG-Si Manufacturing (Track B R&D)
-Sand from Bara, North Kordofan (>98% purity) → Electric Arc Furnace → Directional Solidification → Plasma Purification → Solar-Grade Silicon (6N — 99.9999%).
+### UMG-Si Manufacturing (Track B R&D — experimental)
+Sand from Bara, North Kordofan (>98% purity) → Electric Arc Furnace → Directional Solidification → Plasma Purification → Solar-Grade Silicon. **Research-stage:** the upgraded-metallurgical-grade (UMG-Si) route has no operational industrial production anywhere today, and reaching solar-cell quality needs further R&D. Target purity ~5N–6N; cell efficiency from UMG silicon is ~20–21% in published work, not yet competitive with cheap imported polysilicon. We treat this as a long-horizon sovereignty goal, not a near-term supply chain.
 
-### Bio-Leaching Recycling
-Biological agents (A. ferrooxidans + A. niger) + organic acids from sugarcane/citrus waste → 90%+ battery material recovery rate. Zero chemical imports.
+### Bio-Leaching Recycling (R&D)
+Biological agents (e.g. *A. ferrooxidans*, *A. niger*) + organic acids from sugarcane/citrus waste to recover battery materials with minimal chemical imports. **Lab-stage:** published studies show ~90% recovery for a *single* metal (e.g. lithium) but much lower for others; multi-metal, pilot-scale recovery is unproven. We target high recovery as a research goal, not a guaranteed rate.
 
 ---
 
@@ -118,7 +118,7 @@ Biological agents (A. ferrooxidans + A. niger) + organic acids from sugarcane/ci
 
 ### Skateboard Chassis Platform
 Universal EV platform shared across all vehicle types:
-- **Axial-flux e-Axle**: High power density, hermetically sealed for desert conditions (50°C+), zero maintenance for 10+ years
+- **Axial-flux e-Axle**: High power density, hermetically sealed for desert conditions (50°C+), minimal maintenance (no routine servicing; bearings are the main long-term wear item)
 - **Modular battery blocks**: Sub-3-minute hot-swap
 - **Modular body mounting**: Supports trike, van, and bus configurations
 
@@ -130,7 +130,7 @@ Universal EV platform shared across all vehicle types:
 | PulseBus | 4×50 kWh | Heavy | B | Mass transit (>5K fleet) |
 
 ### V2G (Vehicle-to-Grid)
-10,000 parked buses = 2 GWh distributed storage. Smart contracts auto-discharge 15% during grid emergencies. Operators compensated via KWH-Tokens.
+10,000 parked buses = 2 GWh distributed storage. Smart contracts auto-discharge 15% during grid emergencies. Operators compensated via KWH-Tokens. *(V2G is an emerging capability — commercially early-stage globally; treated here as a future-horizon feature.)*
 
 ---
 
@@ -145,11 +145,11 @@ Universal EV platform shared across all vehicle types:
 
 ### Track A Prerequisites (Must complete first)
 - Solar-powered irrigation pumps
-- Post-harvest cold storage units (reduces 30%+ losses)
+- Post-harvest cold storage units (Sudan's post-harvest losses run ~30–40%; cold chains recover a significant share)
 - SolarSync soil sensors → Building the Soil DNA database (3–5 years of mapping before robot deployment)
 
 ### Polyculture Matrix
-Three crops grown simultaneously: sorghum 🌾, legumes 🌿, peanuts 🥜. Biological synergy (nitrogen fixation, shade canopy) doubles yield/hectare vs monoculture with zero chemical fertilizers.
+Three crops grown simultaneously: sorghum 🌾, legumes 🌿, peanuts 🥜. Biological synergy (nitrogen fixation, shade canopy) can raise yield/hectare ~20–50% vs monoculture in comparable contexts, while sharply reducing chemical-fertilizer need.
 
 ### FaaS (Farming-as-a-Service)
 1. Landowner draws boundaries on Mesh-ID
@@ -165,7 +165,9 @@ Revenue sources: PAYGo energy + V2G trading + FaaS agriculture + ESG carbon cred
 
 Sudan's population grows at ~2.6%/year. Projections account for growing family counts (from 8.1M today to ~13.5M by Y20).
 
-| Year | Est. Families | Hectares (M) | Energy + V2G ($M) | Agri UBI Pool ($M) | Total Pool ($M) | Per Family/yr |
+> **Aspirational projection** — illustrative model, not a guarantee. Anchored to FACTS.md; revenue figures depend on deployment scale, financing, and stability.
+
+| Year | Est. Families | Feddans (M) | Energy + V2G ($M) | Agri UBI Pool ($M) | Total Pool ($M) | Per Family/yr |
 |------|--------------|-------------|-------------------|-------------------|-----------------|---------------|
 | Y1   | 8.1M         | 2           | 20                | 60                | 80              | $10           |
 | Y3   | 8.5M         | 10          | 100               | 300               | 400             | $47           |
@@ -191,8 +193,8 @@ Additional community docs:
 
 ### Community
 
-- Website: [seam-protocol.sd](https://seam-protocol.sd)
-- Discord: [discord.gg/HRYwPTB9](https://discord.gg/HRYwPTB9)
+- Website: [seam.sd](https://seam.sd)
+- Discord: [discord.gg/ssGfWPgKe](https://discord.gg/ssGfWPgKe)
 - GitHub Discussions: [github.com/the-seam-protocol/seam-open/discussions](https://github.com/the-seam-protocol/seam-open/discussions)
 
 ### Current Project Status
@@ -222,10 +224,10 @@ S.E.A.M is an open-source, non-profit infrastructure protocol built for Sudan. W
 |-----|-------------|
 | ⭐ Star this repo | Increases visibility and signals credibility to funders |
 | 🔁 Share the project | Post on LinkedIn, X, or with your network |
-| 💬 Join Discord | [discord.gg/HRYwPTB9](https://discord.gg/HRYwPTB9) — community, feedback, coordination |
+| 💬 Join Discord | [discord.gg/ssGfWPgKe](https://discord.gg/ssGfWPgKe) — community, feedback, coordination |
 | 🛠 Contribute code | See [CONTRIBUTING.md](./CONTRIBUTING.md) |
-| 🤝 Partner or invest | See [INVEST.md](./INVEST.md) or email [invest@seam-protocol.sd](mailto:invest@seam-protocol.sd) |
-| 💰 Donate | Visit [seam-protocol.sd/support](https://seam-protocol.sd/support) |
+| 🤝 Partner or invest | See [INVEST.md](./INVEST.md) or email [invest@seam.sd](mailto:invest@seam.sd) |
+| 💰 Donate | Visit [seam.sd/support](https://seam.sd/support) |
 
 ### Funding Milestones
 

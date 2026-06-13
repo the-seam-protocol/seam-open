@@ -12,7 +12,7 @@ This document defines who reviews what in this repository.
 | Software Lead | open position |
 | Documentation Lead | open position |
 
-> Domain leads are open positions. If you are an experienced engineer in one of these areas and want to take ownership of a subsystem, open a GitHub Discussion or reach out via [Discord](https://discord.gg/HRYwPTB9).
+> Domain leads are open positions. If you are an experienced engineer in one of these areas and want to take ownership of a subsystem, open a GitHub Discussion or reach out via [Discord](https://discord.gg/ssGfWPgKe).
 
 ## Review Ownership
 
